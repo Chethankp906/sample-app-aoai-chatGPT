@@ -11,7 +11,7 @@ This repo contains sample code for a simple chat webapp that integrates with Azu
   - Pinecone index (preview)
   - AzureML index (preview)
 
-## Deploy the app
+## Deploy the appliction
 
 ### Deploy with Azure Developer CLI
 Please see [README_azd.md](./README_azd.md) for detailed instructions.
